@@ -4,8 +4,7 @@
 # Interstellar
 Programa web simples com informações sobre a obra "Interstellar".
 
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-
+* Tecnologias utilizadas.
       HTML, CSS, JS.
 
 # Funcionalidades e Demonstração da Aplicação.
